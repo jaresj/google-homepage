@@ -1,0 +1,1 @@
+This is a mini project where we will attept to replicate the google homepage
